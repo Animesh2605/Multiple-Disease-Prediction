@@ -1,3 +1,5 @@
-# Multiple-Disease-Prediction
-About 
-A web-based Multiple Disease Prediction System that uses a medical diagnosis API to predict diseases from user symptoms. Instead of training ML models, it integrates pretrained medical APIs for fast, accurate, and scalable health predictions.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
